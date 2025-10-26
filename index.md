@@ -3,6 +3,8 @@ title: Home
 layout: default
 ---
 
-# space-theme
+# Space Theme
 
-*space-theme* a jekyll theme based on space
+**Welcome to space!**
+
+This is my jekyll theme based on exploration, 
