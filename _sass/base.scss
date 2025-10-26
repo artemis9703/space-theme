@@ -3,6 +3,12 @@ body {
     background-size: cover;
     background-image: url("https://wallpapercave.com/wp/wp15240950.webp");
     font-family: 'Space Mono';
-    max-width: 70ch;
     color: white;
+    text-align: center;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: rgb(96, 207, 255);
 }
