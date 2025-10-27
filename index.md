@@ -15,6 +15,6 @@ This is my jekyll theme based on exploration, space, and all the possibilities t
 
 ***
 
-[Check out the code!](https://github.com/artemis9703/jekyll-theme)
+[Check out the code!](https://github.com/artemis9703/space-theme)
 
 ***
