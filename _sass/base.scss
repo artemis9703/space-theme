@@ -45,3 +45,16 @@ blockquote:after {
     top: 0.85em;
     line-height: 0.1em;
 }
+button {
+    background-color: rgb(218, 239, 255);
+    color: black;
+    border-radius: 15px;
+    box-shadow: rgba(96, 207, 255, 0.5) 0px 0px 10px 10px;
+    border: white;
+}
+button:active {
+    animation: rocket;
+}
+@keyframes rocket {
+    100% { transform: rotate(360deg);}
+}
