@@ -25,6 +25,6 @@ This is my jekyll theme based on exploration, space, and all the possibilities t
 
 <style>
 body {
-    background-image: url("https://as1.ftcdn.net/v2/jpg/07/73/40/18/1000_F_773401895_3sBXPcZkVrbJxIEhAS9nUDUdhjUupVTy.jpg");
+    background-image: url("space_ship.jpg");
 }
 </style>
