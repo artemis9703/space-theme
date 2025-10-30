@@ -53,3 +53,18 @@ button {
     box-shadow: rgba(96, 207, 255, 0.5) 0px 0px 10px 10px;
     border: white;
 }
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid;
+}
+tbody tr:nth-child(odd) {
+    background-color: rgb(218, 239, 255);
+    padding: 10px; 
+}
+tbody tr:nth-child(even) {
+    background-color: rgb(96, 207, 255);
+}

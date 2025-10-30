@@ -11,6 +11,14 @@ layout: default
 
 There are so many different planets and stars to explore, the possibilities are endless!
 
+| Star | Distance from Earth |
+| ---- | ------------ |
+| Proxima Centauri | 4.244 light-years |
+| Barnard's Star | 5.96 light-years |
+
+
+
+
 <a href="index.html">
   <button>click here to return to the ship!</button>
 </a>
