@@ -30,6 +30,14 @@ There are so many different planets and stars to explore, the possibilities are 
 
 *This is Proxima Centauri*
 
+<div markdown="1">
+```javascript
+const greet = () => {
+  console.log("Hello space!");
+}
+```
+</div>
+
 <a href="index.html">
   <button>click here to return to the ship!</button>
 </a>

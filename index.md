@@ -13,6 +13,8 @@ This is my jekyll theme based on exploration, space, and all the possibilities t
 
 > We choose to go to the Moon! <br>— John F. Kennedy
 
+There are many different stars and star systems in the universe, and some of them aren't too far from us!
+
 <a href="space.html">
   <button>click here to explore space!</button>
 </a>
