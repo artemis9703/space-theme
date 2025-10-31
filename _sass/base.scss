@@ -77,10 +77,21 @@ th {
 }
 img {
     border-radius: 15px;
-    box-shadow: rgba(96, 207, 255, 0.5) 0px 0px 10px 10px;
 }
 div {
-    text-align: left;
-    background-color: black;
-    
+    border: none;
+}
+.star {
+    width: 100px;
+    height: 100px;
+    animation: spin 10s linear infinite;
+    position: absolute;
+}
+
+@keyframes spin {
+    0% { top: 0%; left: 0%; transform: rotate(0deg); }
+    25% { top: 10%; left: 90%; }
+    50% { top: 90%; left: 0%; transform: rotate(360deg); }
+    75% { top: 100%; left: 90%; }
+    100% { top: 0%; left: 0%; transform: rotate(0deg); }
 }

@@ -30,13 +30,14 @@ There are so many different planets and stars to explore, the possibilities are 
 
 *This is Proxima Centauri*
 
-<div markdown="1">
-```javascript
-const greet = () => {
-  console.log("Hello space!");
-}
-```
-</div>
+<details>
+  <summary>The Alpha Centauri System is very interesting...</summary>
+
+There are three stars in the system: Rigil Kentaurus, Toliman, and Proxima Centauri.
+
+</details>
+
+<img class="star" src="https://imgs.search.brave.com/4_LIco38qiCi0r6QANqp4JIwAnDNbZtePm0k7Auv5Bs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL2ltYWdlcy82/Y3A1ZXE3cmkucG5n" alt="grey star">
 
 <a href="index.html">
   <button>click here to return to the ship!</button>
