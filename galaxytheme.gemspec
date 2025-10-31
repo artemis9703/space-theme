@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name = "spacetheme"
+  spec.name = "galaxytheme"
   spec.version = "0.1.0"
   spec.authors = ["Art3mis"]
   spec.email = ["pyatt.eve@gmail.com"]
