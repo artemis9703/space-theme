@@ -26,7 +26,7 @@ There are so many different planets and stars to explore, the possibilities are 
 
 *These are some of the closet stars to earth*
 
-![Proxima Centauri](https://imgs.search.brave.com/kuLShP_Lsx6Sru5vOOgmV0T-MnaXuykDXJkmp41Dues/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGVw/bGFuZXRzLm9yZy8x/MjMvMjAyMi8wNS9Q/cm94aW1hLUNlbnRh/dXJpLUFscGhhLUNl/bnRhdXJpLUMuanBn)
+<img class="proxima" src="https://imgs.search.brave.com/kuLShP_Lsx6Sru5vOOgmV0T-MnaXuykDXJkmp41Dues/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGVw/bGFuZXRzLm9yZy8x/MjMvMjAyMi8wNS9Q/cm94aW1hLUNlbnRh/dXJpLUFscGhhLUNl/bnRhdXJpLUMuanBn" alt="proxima centauri">
 
 *This is Proxima Centauri*
 
@@ -43,8 +43,9 @@ There are three stars in the system: Rigil Kentaurus, Toliman, and Proxima Centa
   <button>click here to return to the ship!</button>
 </a>
 
-<audio autoplay loop>
-  <source src="space-music.mp3" type="audio/ogg">
+<audio id="myAudio" autoplay loop controls>
+  <source src="space-music.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
 
 ***

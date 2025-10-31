@@ -78,6 +78,9 @@ th {
 img {
     border-radius: 15px;
 }
+.proxima {
+    box-shadow: rgba(96, 207, 255, 0.5) 0px 0px 10px 10px;
+}
 div {
     border: none;
 }
@@ -86,6 +89,11 @@ div {
     height: 100px;
     animation: spin 10s linear infinite;
     position: absolute;
+}
+audio {
+    border-radius: 30px;
+    color: rgb(96, 207, 255);
+    box-shadow: rgba(96, 207, 255, 0.5) 0px 0px 10px 10px;
 }
 
 @keyframes spin {

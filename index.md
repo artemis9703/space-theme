@@ -19,15 +19,15 @@ There are many different stars and star systems in the universe, and some of the
   <button>click here to explore space!</button>
 </a>
 
+<audio autoplay loop controls>
+  <source src="space-music.mp3" type="audio/mpeg">
+</audio>
+
 ***
 
 [Check out the code!](https://github.com/artemis9703/space-theme)
 
 ***
-
-<audio autoplay loop>
-  <source src="space-music.mp3" type="audio/ogg">
-</audio>
 
 <style>
 body {
