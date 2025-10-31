@@ -43,6 +43,10 @@ There are three stars in the system: Rigil Kentaurus, Toliman, and Proxima Centa
   <button>click here to return to the ship!</button>
 </a>
 
+<audio autoplay loop>
+  <source src="space-music.mp3" type="audio/ogg">
+</audio>
+
 ***
 
 [Check out the code!](https://github.com/artemis9703/space-theme)

@@ -25,6 +25,10 @@ There are many different stars and star systems in the universe, and some of the
 
 ***
 
+<audio autoplay loop>
+  <source src="space-music.mp3" type="audio/ogg">
+</audio>
+
 <style>
 body {
     background-image: url("space_ship.jpg");
